@@ -5,7 +5,7 @@ if age>=18:
     weight=float(input('Enter your weight:'))
   
     if weight>=50:
-       print('You are elligible!!')
+       print('You are eligible!!')
     else:
        print('You do not meet the minimum weight requirement.')
 else:
